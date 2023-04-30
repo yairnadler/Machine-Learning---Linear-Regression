@@ -1,8 +1,3 @@
-###### Your ID ######
-# ID1: 318875366
-# ID2: 316387927
-#####################
-
 # imports 
 import numpy as np
 import pandas as pd
